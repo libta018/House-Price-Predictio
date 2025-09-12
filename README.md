@@ -53,7 +53,8 @@ It then processes the inputs and predicts the median house value in California.
 ---
 📂 Project Structure
 
-House-Price-Predictio/
+House-Price-Prediction/
+
 │-- app.py               # Main Streamlit app (or streamlit_app.py)
 │-- House_Price.py       # Script to train & save model
 │-- pipeline.pkl         # Preprocessing pipeline
@@ -64,6 +65,7 @@ House-Price-Predictio/
 ---
 
 📋 Requirements
+
 streamlit>=1.26.0
 pandas>=2.1.0
 numpy>=1.26.0
