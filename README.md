@@ -46,11 +46,12 @@ The trained ML model (Linear Regression / Random Forest) is automatically downlo
 It then processes the inputs and predicts the median house value in California.
 
 ---
+
 📸 Screenshots
 ![App Screenshot](Preview.png)
 
-
 ---
+
 📂 Project Structure
 
 House-Price-Prediction/
@@ -72,8 +73,6 @@ numpy>=1.26.0
 scikit-learn>=1.3.0
 joblib>=1.3.0
 gdown>=4.7.1
-
----
 
 ---
 
@@ -107,6 +106,7 @@ streamlit run app.py
 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/mohammedtalib)
 🌐 Live Demo: [Click Here](https://house-price-prediction-california.streamlit.app)  
 
+---
 
 ## ⭐ Acknowledgments
 
